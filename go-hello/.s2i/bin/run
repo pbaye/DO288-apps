@@ -1,0 +1,4 @@
+#!/bin/bash -e
+
+exec /usr/libexec/s2i/run --lang es
+
